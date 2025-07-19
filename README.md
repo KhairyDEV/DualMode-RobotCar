@@ -8,7 +8,7 @@ This project is an Arduino-based robot car that operates in two modes:
 
 ## 📷 Wiring Diagram
 
->![Wiring Diagram](images/circuit_image.png)
+>![Wiring Diagram](circuit_image.png)
   
 ### 🔌 Pin Configuration
 
