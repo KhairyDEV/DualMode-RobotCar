@@ -1,3 +1,4 @@
+//Improved readability, added wheel test function, custom wheel adjustments, some small fixes 
 int in1 = 2; //BACKWARD if HIGH
 int in2 = 3; //FORWARD if HIGH
 int in3 = 4; //BACKWARD if HIGH
